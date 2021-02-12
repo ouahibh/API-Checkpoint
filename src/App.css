@@ -1,0 +1,12 @@
+.contenairP{
+  width: 80%;
+  height: 90vh;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  
+}
+.myProfil{
+  width: 60%;
+  height: 60%;
+}
